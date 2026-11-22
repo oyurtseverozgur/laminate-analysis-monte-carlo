@@ -1,8 +1,7 @@
 # laminate-analysis-monte-carlo
 # Design-dependent weight saving governs the life-cycle carbon balance of carbon-fibre composite substitution for aerospace aluminium
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-*(Not: Zenodo'dan DOI aldıktan sonra yukarıdaki XXXXXXX kısmını gerçek DOI numaranla değiştir.)*
+(https://doi.org/10.5281/zenodo.24437369)
 
 This repository contains the Python implementation, index derivation, and Monte Carlo simulation model used in the manuscript submitted to the **Journal of Cleaner Production** (Elsevier). 
 
